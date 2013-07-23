@@ -1,5 +1,5 @@
 name             'aliases'
-maintainer       'Sébastien KURTZEMANN'
+maintainer       'Sebastien KURTZEMANN'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
 description      'Installs/Configures aliases'
